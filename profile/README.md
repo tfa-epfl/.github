@@ -69,35 +69,7 @@ Development and maintenance of the technical infrastructure — data access, com
 
 ---
 
-## Events & News
 
-TFA regularly organises industry-facing events and internal activities.
-
-### Upcoming Event
-
-**19 November 2025**  
-Virtual Talk: *"Get to Know Us, Strategy & Product"* with Jane Street  
-
-Exclusive session for students interested in how Strategy & Product professionals turn in-depth analysis into firmwide impact at the intersection of technology, finance, and operations.
-
----
-
-### Past Events
-
-- Optiver Data Science Challenge (41 participants)  
-- Trading Game Opening Ceremony x Flowbank (24 participants)  
-- TFA EPFL x Brevan Howard — From Engineering to Asset Management  
-
----
-
-## Key Figures
-
-- 850+ LinkedIn Followers  
-- 40+ Organized Events  
-- 15+ Corporate Partners  
-- Founded in 2011  
-
----
 
 ## Contact
 
