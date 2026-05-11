@@ -31,44 +31,6 @@ TFA aims to create a structured ecosystem where students can:
 
 ---
 
-## Core Pillars
-
-### Market Exposure
-Direct engagement with market data, price dynamics, and real operational constraints of the financial industry.
-
-### Applied Skills
-Development of quantitative finance skills:
-- Statistical modelling  
-- Time series analysis  
-- Portfolio construction  
-- Risk management  
-
-### Structured Deliverables
-Production of documented research papers, formalised presentations, and analytical materials aligned with industry standards.
-
-### Industry–Academia Ecosystem
-Building a lasting network between financial institutions and EPFL’s quantitative talent.
-
----
-
-## Association Structure
-
-TFA is organised into four complementary divisions:
-
-### Quant Research / Hedge Fund Track
-The association’s central division. Responsible for the design, development, and validation of systematic quantitative strategies. Coordinates the research pipeline from initial hypothesis through to the formalised presentation of results.
-
-### Events & Sponsorship
-Organisation of conferences, workshops, and interaction formats with the financial industry. Management of partner relations and coordination of sponsorship activities. Primary interface with external institutions.
-
-### Communication & Podcast
-Production of editorial content, management of the podcast, and dissemination of research outputs. Ensures TFA’s institutional visibility within academic and professional communities.
-
-### IT & Data Infrastructure
-Development and maintenance of the technical infrastructure — data access, computing environments, backtesting tools. Guarantees the reliability and reproducibility of analyses produced by the research division.
-
----
-
 
 
 ## Contact
